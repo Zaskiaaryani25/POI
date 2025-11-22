@@ -52,6 +52,5 @@ $response = $kernel->handle(
     $request = Request::capture()
 )->send();
 
-echo "Edit Baris 57 oleh Nova";
+$kernel->terminate($request, $response);
 
-echo "Baris tambahan oleh Rifan";
