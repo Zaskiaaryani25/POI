@@ -18,3 +18,5 @@ Route::get('/', function () {
 });
 
 echo "Baris tambahan oleh Rifan";
+
+echo "Baris tambahan oleh Nabila";
