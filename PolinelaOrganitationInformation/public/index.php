@@ -52,6 +52,13 @@ $response = $kernel->handle(
     $request = Request::capture()
 )->send();
 
+<<<<<<< HEAD
 echo "Edit Baris 57 oleh Nova";
 
 echo "Baris tambahan oleh Rifan";
+=======
+echo "Edit Baris 55 oleh Nabila";
+
+
+echo "Baris tambahan oleh Nabila";
+>>>>>>> nabilaekaputri
