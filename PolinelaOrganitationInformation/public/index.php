@@ -62,9 +62,4 @@ $kernel->terminate($request, $response);
 
 
 
-
-
-
-
-
 echo "ini nabila";
