@@ -57,10 +57,22 @@ $kernel->terminate($request, $response);
 
 
 
+<<<<<<< HEAD
 echo "ini rifan";
+=======
+>>>>>>> MuhammadAgusRizal
 
 
 
 
 
+<<<<<<< HEAD
 echo "ini nabila";
+=======
+
+
+
+
+
+echo "ii agus";
+>>>>>>> MuhammadAgusRizal
